@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Hi, I'm Tremb1e, a master student at University of Chinese Academy of Sciences.
 
 - 🍻 Master at [_Institute of Information Engineering, Chinese Academy of Sciences_](http://www.iie.cas.cn/).
-- 🔭 I'm interested in Cyber Security.
+- 🔭 I'm interested in Cyber Security and Dev&Ops.
 - 💻 Coding with GO&Python, familiar with docker and some other techs.
 - 💬 Welcome to check out my website [_https://www.macrz.com/_](https://www.macrz.com/).
 <!--- 🤔 Welcome to contact me by email ↙️. -->
